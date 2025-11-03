@@ -16,5 +16,3 @@ A deep learning project for automatic lung cancer detection using medical images
 2. Install requirements: `pip install -r requirements.txt`
 3. Run `python predict.py` with your test image
 
-## Sample Results
-_Add example input and output screenshots here if possible_
